@@ -20,7 +20,8 @@ PM
 ---
 ### Project🌱
 
-앞으로도 계속 ... 
+꿈을 향해 가즈아앙
+
 <!--
 **wlgus-3/wlgus-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
