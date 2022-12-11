@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-안녕하세요 코린이 입니다. 
-부족하지만 열심히 노력하겠습니다!
+
 
 ------
 ### Profile😄
-
-Sejong univ. - Business Management / Business Analytics
-
-SAI season4 
 
 ---
 ### Interest⚡
@@ -20,7 +15,6 @@ PM
 ---
 ### Project🌱
 
-꿈을 향해 가즈아앙
 
 <!--
 **wlgus-3/wlgus-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
